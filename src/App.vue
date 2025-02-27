@@ -5,7 +5,7 @@
         <div class="header-content">
           <div class="header-left">
             <h1>银行清洗工具 V0.2</h1>
-            <div class="header-subtitle">姑苏纪委监委技术室</div>
+            <div class="header-subtitle">XX技术室</div>
           </div>
           <div class="header-actions">
             <el-button type="primary" @click="showFieldMappingDialog">
